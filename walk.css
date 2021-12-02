@@ -1,0 +1,72 @@
+#container {width: 70%;
+            background-color: #F2EFDF;
+            margin: auto;
+            margin-top: 0px;
+            margin-bottom: 0px}
+
+body {font-family: Calibri, sans-serif;
+      font-size: 1.1em;
+      background-color: #e8fbd2;}
+
+#contact {height: 3em;
+          background-color: #AF9D88;
+          padding-top: 0.2em, 0.5em, 0.2em, 0.5em;
+          text-align: right;
+          color: white;}
+#contact img {height: 32px;
+              width: 32px;
+              vertical-align: middle;}
+
+#logo {height: 5em;
+       background-color: #05572d;
+       padding: 0.2em, 0.5em, 0.2em, 0.5em;}
+#logo img {float: left;
+           margin: 0.7em, 0.5em, 0.7em, 0.5em}
+
+main {padding: 0.5em, 1.5em, 0.5em, 1.5em;}
+main img {width: 97%;
+          height: 15em;
+          border: 1em #AF9D88 solid;}
+
+h1 {color: #05572d;
+    font-weight: normal;}
+
+footer {background-color: #05572d;
+        color: white;
+        height: 7em;
+        margin: 0em;
+        padding: 0.2em, 0.5em, 0.2em, 0.5em;}
+footer img {height: 32px;
+            width: 32px;
+            border: 0px;
+            vertical-align: middle;}
+
+table {border: 1px solid;
+       background-color: #AF9D88;
+       border-collapse: collapse;
+       margin-top: 1em;
+       margin-bottom: 1em;
+       text-align: center;}
+td {border: 1px solid;
+    border-color: #AF9D88;}
+table img {height: 100%;
+           width: 100%
+           border: none;}
+#row {color: #05572d}
+
+form label {width: 10em;
+            margin-right: 1em;
+            float: left;
+            text-align: right;}
+form legend {color: #05572d;
+             font-size: 1.2em;}
+form fieldset {border: 3px #AF9D88 solid;
+               line-height: 1.5em;}
+input, select {width: 12em;
+               display: inline-block 1px #ccc solid;
+               box-sizing: border-box;}
+
+#Submit {margin-left: 194px;
+         background-color:  #AF9D88;
+         color: white;
+         border-radius: 5px;}
